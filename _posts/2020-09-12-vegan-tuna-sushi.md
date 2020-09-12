@@ -17,12 +17,10 @@ recipe:
     * 1 tablespoon ground ginger
     * 1 teaspoon baking soda
   directions_markdown: |-
-    1. Pre heat oven to 350°F.
-    2. Cream the butter and the sugar.
-    3. Add the golden syrup and the dry ingredients.
-    4. Mix everything together and roll into little balls. Put onto a greased baking tray, pressing the balls down very slightly with a fork.
-    5. Bake at 350°F for 15 minutes.
-    6. Cool on a wire rack and keep in an airtight container once cold.
+    1. Drain and rinse 1 can of chickpeas— add them to a food processor
+    2. To the same food processor add 2 tbsp nori or dulse flakes, 1 tbsp onion powder, 1 tsp garlic powder, 1 tsp lemon juice, 2 tbsp coconut aminos (or a sweet soy sauce, can use soy sauce and maple), 1/4 cup nutritional yeast, general swirl of sriracha, 1 tsp chopped capers, 1 tsp fresh dill and 1 tbsp mustard
+    3. Blend for short little bursts, you want a bit of texture, not a paste. Adjust salt if you need a little extra. Can also add vegan mayo if you’re keen but I’m keeping this whole food plant based 
+   
 ---
 These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
 
