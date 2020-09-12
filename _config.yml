@@ -12,12 +12,11 @@ disqus_shortname:
 logo: /siteicon.png
 description: My Food Blog.
 author: Lily Watts
-  name: Lily 
-  email:
-  twitter: # twitter username without the @ symbol
+email:
+twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
-  links:
+name: Treat Template
+links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
 # -----
