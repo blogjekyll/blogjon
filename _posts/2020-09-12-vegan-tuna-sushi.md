@@ -6,7 +6,7 @@ categories:
   - Sushi
 featured_image: ./images/sushi.jpg
 recipe:
-  servings: 60 cookies
+  servings: 20 Rolls
   prep: 15 minutes
   cook: 15 minutes
   ingredients_markdown: |-
