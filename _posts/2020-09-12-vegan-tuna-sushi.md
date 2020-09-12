@@ -24,11 +24,11 @@ recipe:
 ---
 These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
 
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
+![Cookie](./images/sushi2.jpg)
 
 Carefully placing them on the tray.
 
-![Cookie](https://source.unsplash.com/RUPPakds28k)
+![Cookie](./images/sushi3.jpg)
 
 Little Gavin loves them.
 
