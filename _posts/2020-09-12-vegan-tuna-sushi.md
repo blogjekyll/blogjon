@@ -29,14 +29,14 @@ recipe:
 ---
 These are traditionally eaten in Japan, however you will find them all over the world! 
 
-![sushi]("https://imgbox.com/NwkqyfpN" target="_blank"><img src="https://images2.imgbox.com/d6/90/NwkqyfpN_o.jpg" alt="image host")
+![sushi](./images/sushi2.jpg)
 
 Almost as good as the bought rolls! 
 
-![sushi]("image/sushi.jpg")
+![sushi](./image/sushi3.jpg)
 
 It's okay if the nori doesn't stick
 
-![sushi]("https://imgbox.com/NwkqyfpN" target="_blank"><img src="https://images2.imgbox.com/d6/90/NwkqyfpN_o.jpg" alt="image host")
+![sushi](./image/sushi3.jpg)
 
 !
