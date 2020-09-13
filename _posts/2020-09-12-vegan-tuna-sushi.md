@@ -41,3 +41,6 @@ It's okay if the nori doesn't stick
 ![Car Image](sushi.jpg)
 
 ghj
+
+![Car Image](sushi.jpeg)
+
