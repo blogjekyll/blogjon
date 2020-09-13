@@ -38,9 +38,9 @@ Almost as good as the bought rolls!
 
 It's okay if the nori doesn't stick
 
-![Car Image](sushi.jpg)
+![Hiking](/images/sushi3.jpg)
 
 ghj
 
-![Car Image](sushi.jpeg)
+![Hiking](/images/sushi2.jpg)
 
