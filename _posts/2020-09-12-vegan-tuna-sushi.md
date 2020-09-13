@@ -4,7 +4,7 @@ title: Vegan 'Tuna' Sushi
 
 categories:
   - Sushi
-featured_image: https://i.ibb.co/cyP0kYd/sushi.jpg
+featured_image: https://i.ibb.co/c2JZkDS/Screen-Shot-2020-09-13-at-12-05-49-pm.png
 recipe:
   servings: 20 Rolls
   prep: 15 minutes
