@@ -1,6 +1,6 @@
 ---
 date: 2020-09-12
-title: Vegan 'Tuna' Sushi
+title: Vegan 'Chicken' Sushi
 
 categories:
   - Sushi
