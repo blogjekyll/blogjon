@@ -29,7 +29,7 @@ recipe:
 ---
 These are traditionally eaten in Japan, however you will find them all over the world! 
 
-![sushi]("../images/sushi.jpg" height="100")
+![sushi](../images/cool.jpeg)
 
  
 Almost as good as the bought rolls! 
