@@ -34,7 +34,7 @@ These are traditionally eaten in Japan, however you will find them all over the 
  
 Almost as good as the bought rolls! 
 
-![sushi](img src="~/images/sushi.jpg" height="100").       
+![title](images/sushi.jpg)
 
 It's okay if the nori doesn't stick
 
